@@ -11,4 +11,4 @@ Deadline | Link | Description|
 31.10.2023 | [Conditioned GANs](https://github.com/RostislavKorst/Generative-Models-2023/blob/main/Assignment%202/2_mnist_cgan.ipynb) | Conditional GAN implementation
 14.11.2023 | [GAN stabilization and Metrics](https://github.com/RostislavKorst/Generative-Models-2023/blob/main/Assignment%203/3_tricks_metrics.ipynb) | Regularization, IS and FID
 28.11.2023 | [Optimal Transport Theory](https://github.com/RostislavKorst/Generative-Models-2023/blob/main/Assignment%204/4_ot_theory.ipynb) | Optimal Transport theory and practice
-12.12.2023 | Style Transfer and Diffusion Models | TBD
+12.12.2023 | [Denoising Diffusion Probabilistic Models](https://github.com/RostislavKorst/Generative-Models-2023/blob/main/Assignment%205/5_ddpm.ipynb) | Diffusion Models practice
